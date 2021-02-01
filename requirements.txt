@@ -1,0 +1,4 @@
+streamlit==0.73.0
+aitextgen==0.3.0
+Pillow==7.2.0
+pybase64==1.1.3
